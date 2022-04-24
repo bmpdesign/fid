@@ -1,0 +1,60 @@
+h1 {
+  font: bold 2.8em 'Orelega One', cursive;
+  text-shadow: .05em .05em .1em black;
+  color: #6719BF;
+  border-bottom: 1px solid #6719BF;
+  text-align: center;
+  margin-top: 30px;}
+
+  body {
+    font-family: Garamond, serif;
+    font-size: 100%;
+    line-height: 175%;
+    margin: 0 15% 0;
+    background-color: #FFFBD9;
+    text-align: center;}
+
+a:link {
+  color: black;}
+
+a:visited {
+  color: orange;}
+
+a:focus, a:hover  {
+  color: orange;
+  background-color: #00000;}
+
+a:active {
+  color: orange;
+  background-color: #00000;}
+
+h2 {
+  font-size: 1.3em;
+  letter-spacing: 0;
+  text-align: center;
+  color: #6719BF;
+  text-decoration-line: underline;}
+
+footer {
+  border-top: 1px solid #6719BF;
+  text-align: center;
+  padding-top: 1em;}
+
+h3 {
+  font-size: 1em;
+  letter-spacing: 0;
+  text-align: center;
+  color: #6719BF;
+  text-decoration-line: underline;}
+
+#socials img {
+  width: 10%;
+  height: 10%;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width:50%;
+}
